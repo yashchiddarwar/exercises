@@ -3,3 +3,4 @@ numpy==1.23.2
 mediapipe==0.10.9
 pyttsx3==2.90
 opencv-python==4.6.0.66
+gstreamer==1.18.5
