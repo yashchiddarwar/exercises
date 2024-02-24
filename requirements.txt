@@ -1,0 +1,5 @@
+streamlit==0.89.0
+numpy==1.21.2
+mediapipe==0.8.7
+pyttsx3==2.90
+opencv-python-headless==4.5.3.56
